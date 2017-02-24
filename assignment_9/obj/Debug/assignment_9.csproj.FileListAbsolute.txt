@@ -1,0 +1,9 @@
+c:\users\ponna\onedrive\documents\visual studio 2015\Projects\assignment_9\assignment_9\bin\Debug\assignment_9.exe.config
+c:\users\ponna\onedrive\documents\visual studio 2015\Projects\assignment_9\assignment_9\bin\Debug\assignment_9.exe
+c:\users\ponna\onedrive\documents\visual studio 2015\Projects\assignment_9\assignment_9\bin\Debug\assignment_9.pdb
+c:\users\ponna\onedrive\documents\visual studio 2015\Projects\assignment_9\assignment_9\obj\Debug\assignment_9.csprojResolveAssemblyReference.cache
+c:\users\ponna\onedrive\documents\visual studio 2015\Projects\assignment_9\assignment_9\obj\Debug\assignment_9.exe
+c:\users\ponna\onedrive\documents\visual studio 2015\Projects\assignment_9\assignment_9\obj\Debug\assignment_9.pdb
+H:\MS\Image Processing\Image Processing\Uj-Assignments\assignment_9\assignment_9\bin\Debug\assignment_9.exe.config
+H:\MS\Image Processing\Image Processing\Uj-Assignments\assignment_9\assignment_9\obj\Debug\assignment_9.exe
+H:\MS\Image Processing\Image Processing\Uj-Assignments\assignment_9\assignment_9\obj\Debug\assignment_9.pdb
